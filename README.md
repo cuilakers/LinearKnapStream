@@ -1,3 +1,7 @@
+> Code of the experiments for **Linear-Time Algorithms for Representative Subset Selection From Data Streams** published at WWW 2025.
+
+For more information, contact: Shuang Cui (cuiblackmamba@foxmail.com)
+
 ## Application: Maximum Coverage on Networks
 
 * **Compilation**
